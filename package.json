@@ -1,5 +1,5 @@
 {
-  "name": "meetup=php-buenosaires-slackin",
+  "name": "meetup-php-buenosaires-slackin",
   "version": "0.1.0",
   "description": "Endpoint to get the invitation for the slack channel of Buenos Aires PHP meetup",
   "main": "index.js",

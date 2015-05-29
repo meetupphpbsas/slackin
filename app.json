@@ -1,7 +1,7 @@
 {
   "name": "Meetup php buenos aires",
   "description": "Autoregister for slack channels for Buenos Aires PHP Meetup",
-  "repository": "",
+  "repository": "https://github.com/meetupphpbsas/slackin",
   "logo": "http://meetupphpbuenosaires.herokuapp.com/logo.png",
   "keywords": ["meetup", "php", "buenos aires"]
 }
