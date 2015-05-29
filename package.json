@@ -1,0 +1,21 @@
+{
+  "name": "meetup=php=buenosaires-slackin",
+  "version": "0.1.0",
+  "description": "Endpoint to get the invitation for the slack channel of Buenos Aires PHP meetup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "slackin": "~0.5.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "keywords": [
+    "meetup",
+    "php",
+    "buenos aires"
+  ],
+  "license": "MIT"
+}
