@@ -3,5 +3,5 @@ require('slackin')({
   interval: 1000,
   org: 'meetphpar', // required
   //channels: 'channel,channel,...' // for single channel mode
-  silent: false // suppresses warnings
+  silent: true // suppresses warnings
 }).listen(process.env.PORT);
